@@ -373,7 +373,8 @@ body.rtl
 .elementor-1248
   .elementor-element.elementor-element-9660dec
   .jet-nav__mobile-trigger {
-  background-color: #26d6ef;
+  color: var(--color-secondary);
+  background-color: var(--bg-primary);
   border-radius: 5px 5px 5px 5px;
 }
 .elementor-bc-flex-widget
