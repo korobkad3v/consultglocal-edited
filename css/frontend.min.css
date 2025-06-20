@@ -5644,7 +5644,8 @@ button.swiper-pagination-bullet {
 .elementor-widget-image img {
   vertical-align: middle;
   display: inline-block;
-    filter: grayscale(100%);
+  filter: grayscale(100%);
+  mix-blend-mode: darken;
 }
 .elementor-widget-image-box .elementor-image-box-content {
   width: 100%;

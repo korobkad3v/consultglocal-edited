@@ -12,7 +12,8 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(90deg, #1532de 0%, #26d5ef 85.9%);
+    background-image: linear-gradient(90deg, #1f1c16 0%, #e2c99d 84.24%);
+
 }
 .elementor-1240 .elementor-element.elementor-element-1643c920 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -92,7 +93,7 @@
   .elementor-element.elementor-element-349fe061
   .elementor-icon-box-title
   a {
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 16px;
   font-weight: 300;
   text-transform: none;
@@ -105,7 +106,7 @@
   .elementor-element.elementor-element-349fe061
   .elementor-icon-box-description {
   color: #ffffff;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 23px;
@@ -150,7 +151,7 @@
   .elementor-element.elementor-element-5345430
   .elementor-icon-box-title
   a {
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 16px;
   font-weight: 300;
   text-transform: none;
@@ -163,7 +164,7 @@
   .elementor-element.elementor-element-5345430
   .elementor-icon-box-description {
   color: #ffffff;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 23px;
@@ -230,7 +231,7 @@
   .elementor-element.elementor-element-1e5af9b
   .elementor-icon-box-title
   a {
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 16px;
   font-weight: 300;
   text-transform: none;
@@ -243,7 +244,7 @@
   .elementor-element.elementor-element-1e5af9b
   .elementor-icon-box-description {
   color: #ffffff;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 23px;
@@ -305,7 +306,7 @@
   .elementor-element.elementor-element-1638d414
   .elementor-icon-box-title
   a {
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 16px;
   font-weight: 300;
   text-transform: none;
@@ -318,7 +319,7 @@
   .elementor-element.elementor-element-1638d414
   .elementor-icon-box-description {
   color: #ffffff;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 23px;
@@ -421,7 +422,7 @@
   .elementor-element.elementor-element-4adfdb33
   .elementor-heading-title {
   color: #262626;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 20px;
   font-weight: 600;
 }
@@ -456,7 +457,7 @@
   .elementor-element.elementor-element-69737888
   .elementor-heading-title {
   color: #262626;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 20px;
   font-weight: 600;
 }
@@ -554,7 +555,7 @@
   .elementor-element.elementor-element-34552913
   .elementor-heading-title {
   color: #262626;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 20px;
   font-weight: 600;
 }
@@ -565,7 +566,7 @@
 }
 .elementor-1240 .elementor-element.elementor-element-4a9ba22a {
   color: #898989;
-  font-family: "Inter", Sans-serif;
+  font-family: "PT Serif", serif;
   font-size: 15px;
   font-weight: 300;
   line-height: 22px;
