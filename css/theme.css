@@ -1,3 +1,15 @@
+:root {
+  --bg-primary: #000000;
+  --bg-secondary: #B6B09F;
+  --color-primary: #F2F2F2;
+  --color-secondary: #EAE4D5;
+}
+
+::selection{
+  background-color: var(--color-secondary);
+  color: var(--bg-primary);
+}
+
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
