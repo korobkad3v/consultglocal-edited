@@ -43,3 +43,16 @@
 - После успешной отправки выполняется редирект на страницу `thanks.html`.
 
 ---
+
+### Инструкция по развертыванию 
+
+```shell
+git clone https://github.com/korobkad3v/consultglocal-edited.git
+```
+
+```shell
+cd consultglocal-edited
+open index.html
+```
+
+или перейти на [демо](https://korobkad3v.github.io/consultglocal-edited/index.html)
