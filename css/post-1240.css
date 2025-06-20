@@ -30,7 +30,7 @@
   color: #ffffff;
 }
 .elementor-1240 .elementor-element.elementor-element-1643c920 a:hover {
-  color: #26d5ef;
+  color: var(--color-secondary);
 }
 .elementor-1240
   .elementor-element.elementor-element-21f65af3
@@ -338,7 +338,7 @@
   .elementor-element.elementor-element-4c46ab2e
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #ffffff;
+  background-color: var(--bg-secondary);
 }
 .elementor-1240 .elementor-element.elementor-element-4c46ab2e {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -511,13 +511,15 @@
   .elementor-element.elementor-element-9c092b0
   .menu-item:hover
   > .menu-item-link-top {
-  color: #1532df;
+    color: var(--color-secondary);
+  
 }
 .elementor-1240
   .elementor-element.elementor-element-9c092b0
   .menu-item.current-menu-item
   .menu-item-link-top {
-  color: #1532df;
+    color: var(--bg-primary);
+    text-decoration: underline;
 }
 .elementor-1240
   .elementor-element.elementor-element-9c092b0
@@ -565,7 +567,7 @@
   --spacer-size: 7px;
 }
 .elementor-1240 .elementor-element.elementor-element-4a9ba22a {
-  color: #898989;
+
   font-family: "PT Serif", serif;
   font-size: 15px;
   font-weight: 300;
@@ -594,7 +596,7 @@
   .elementor-element.elementor-element-242e4cf4
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #ffffff;
+  background-color: var(--bg-primary);
 }
 .elementor-1240 .elementor-element.elementor-element-242e4cf4 {
   border-style: solid;
